@@ -1,0 +1,100 @@
+
+.my-vidz {
+    padding: 1px;
+    width: 500px;
+    height: auto; 
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.vid-item {
+    text-align: center;
+}
+
+
+.computer {
+    padding: 20px;
+}
+
+
+
+.topnav {
+    background-color: rgb(186, 136, 89);
+    overflow: hidden;
+  }
+  
+  .ooo {
+    background-color: rgb(186, 136, 89);
+    overflow: hidden;
+    border: none;
+  }
+
+  .oooActive {
+    background-color: #b8882a;
+    overflow: hidden;
+    border: none;
+  }
+
+  
+
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav button {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #d6831e;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #b8882a;
+    color: white;
+    
+  }
+
+  /* Change the color of links on hover */
+  .topnav button:hover {
+    background-color: #d6831e;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav button.active {
+    background-color: #b8882a;
+    color: white;
+    
+  }
+
+  .happypicture {
+    vertical-align: center;
+    width: 300px;
+    height: auto;
+    margin: 30px;
+    padding: 0px;
+    
+  }
+
+  p {
+    font-size: 25px;
+  }
+
+
+  

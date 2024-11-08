@@ -1,0 +1,219 @@
+h1{
+    color:rgb(242, 200, 126);
+    text-align: center;
+    font-size: 80px;
+}
+
+p{
+    color:rgb(175, 132, 80);
+    text-align: center;
+    font-size: 25px;
+}
+
+.fascinate-inline-regular {
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+img {
+
+    vertical-align: center;
+    height: 400px;
+    width:auto;
+    
+
+    
+
+}
+
+.betterimage {
+    padding: 0px;
+    width: 430px;
+    height: auto; 
+    border: 15px solid rgb(227, 164, 108);
+    margin: 30px
+    
+
+}
+
+a {
+    color:rgb(248, 233, 228) !important;
+    
+}
+
+.center-link {
+
+    margin: auto;
+    width: 50%;
+    border: solid rgb(255, 221, 180);
+    padding: 10px;
+    text-align: center;
+    background-color: coral;
+}
+  
+form {
+    text-align: center;
+    
+}
+
+.my-form {
+    width: 20%;
+    align-content: center;
+}
+
+
+
+
+
+.center {
+
+    text-align: center;
+    display: block;
+
+}
+
+
+.my-vidz {
+    padding: 60px;
+    border-color: solid red;
+    border: 2px;
+    width: 500px;
+    height: auto; 
+    display: inline;
+}
+
+
+.happy-FAce {
+
+    font-size: 40px;
+    
+
+}
+
+.topnav {
+    background-color: rgb(186, 136, 89);
+    overflow: hidden;
+  }
+  
+  .ooo {
+    background-color: rgb(186, 136, 89);
+    overflow: hidden;
+    border: none;
+  }
+
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav button {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #d6831e;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #b8882a;
+    color: white;
+    
+  }
+
+  /* Change the color of links on hover */
+  .topnav button:hover {
+    background-color: #d6831e;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav button.active {
+    color: #b8882a;
+    color: white;
+    
+  }
+  
+  button {
+   background-color:#b8882a;
+  }
+
+
+/* CSS */
+.button-19 {
+  appearance: button;
+  background-color: #9a7118;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 7%;
+}
+
+.button-19:after {
+  background-clip: padding-box;
+  background-color: #866b21;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-19,
+.button-19:focus {
+  user-select: auto;
+}
+
+.button-19:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-19:disabled {
+  cursor: auto;
+}
+
+.button-19:active {
+  border-width: 4px 0 0;
+  background: none;
+}
